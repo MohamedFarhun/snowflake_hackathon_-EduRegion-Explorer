@@ -4,5 +4,5 @@ matplotlib
 seaborn
 scikit-learn
 openai
-snowflake-snowpark-python "openai>=1.0.0"
 snowflake-connector-python
+snowflake-snowpark-python 
