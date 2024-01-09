@@ -5,3 +5,4 @@ seaborn
 scikit-learn
 openai
 snowflake-connector-python==2.8.3
+snowflake-snowpark-python "openai>=1.0.0"
