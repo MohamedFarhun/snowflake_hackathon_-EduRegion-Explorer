@@ -148,5 +148,5 @@ if st.sidebar.button("Submit Rating"):
     st.sidebar.success(f"Thanks for rating us {rating} stars!")
     # Logic to store the rating
     st.sidebar.markdown(
-    "Do visit my [Github Repository](https://github.com/MohamedFarhun/StockMarketAnalysis)"
+    "Do visit my [Github Repository](https://github.com/MohamedFarhun/snowflake_hackathon_-EduRegion-Explorer/tree/main)"
 ) 
